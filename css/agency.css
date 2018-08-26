@@ -305,7 +305,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("http://www.lander.edu/images/default-source/news-releases-images/hands-art.jpg?sfvrsn=2");
+  background-image: url("../img/hands-art.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
