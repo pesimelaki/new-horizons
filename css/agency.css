@@ -305,7 +305,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/hands-art.jpg");
+  background-image: url("hands-art.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
